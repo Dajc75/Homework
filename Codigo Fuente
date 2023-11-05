@@ -1,0 +1,10 @@
+main.py
+loginscreen.py
+analyticsprocess.py
+databasehelper.py
+orderprocessing.py
+usermanagement.py
+reportgenerator.py
+errorhandler.py
+configuration.py
+authentication.py
